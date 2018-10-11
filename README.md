@@ -1,4 +1,6 @@
 ## Driver Dispatch System: Kafka Implementation
+### Description
+For a detailed description, click [here](https://docs.google.com/document/d/1RM8zvoXEO2cDK-3hQD18rymm81boOahkdFB_lpI_X8A/edit?usp=sharing)
 
 ### Setup
 
